@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/FBdkYdy/a-l-vrqa96bol-Ac-unsplash.jpg",
+        "title": "Journey Through Time",
+        "author": "Alex Reed",
+        "author_img": "https://i.ibb.co/5FJwpnj/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg",
+        "posted_date": "2024-01-01",
+        "reading_time": 5 ,
+        "hashtags": ["#Adventure", "#History", "#Travel"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/Xk186NJ/deep-colorful-school-fish-swims-generative-ai.jpg",
+        "title": "Secrets of the Ocean",
+        "author": "Jordan Fisher",
+        "author_img": "https://i.ibb.co/mDDT4Kw/portrait-young-man-while-studying-books.jpg",
+        "posted_date": "2024-01-15",
+        "reading_time": 8 ,
+        "hashtags": ["#Ocean", "#Mystery", "#Exploration"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/60gp0t6/aerial-view-computer-laptop-wooden-table-photography-hobby-concept.jpg",
+        "title": "The Art of Coding",
+        "author": "Samira Lee",
+        "author_img": "https://i.ibb.co/JyBtvmz/portrait-mature-smiling-authoress-sitting-desk.jpg",
+        "posted_date": "2024-02-05",
+        "reading_time": 10 ,
+        "hashtags": ["#Technology", "#Programming", "#Education"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/4NFNF8m/person-using-ai-tool-job.jpg",
+        "title": "Mountains Beyond Mountains",
+        "author": "Chris Norton",
+        "author_img": "https://i.ibb.co/M9cmGGn/131371.jpg",
+        "posted_date": "2024-02-20",
+        "reading_time": 7,
+        "hashtags": ["#Adventure", "#Mountaineering", "#Nature"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/WWyKvW9/male-female-tourists-look-map-road.jpg",
+        "title": "The Future of AI",
+        "author": "Morgan Hayes",
+        "author_img": "https://i.ibb.co/DR83gzL/2151054001.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": 12,
+        "hashtags": ["#AI", "#Future", "#Innovation"]
+    }
+]
